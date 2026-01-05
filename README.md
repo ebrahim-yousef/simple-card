@@ -11,7 +11,7 @@ A simple card design built with HTML & CSS as a practice project.
 - CSS3
 
 ## 🔗 Live Demo
-(GitHub Pages --> SOON)
+(https://ebrahim-yousef.github.io/Simple-Card/)
 
 ---
 ⭐️ First practice project on GitHub
